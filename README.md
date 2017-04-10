@@ -1,5 +1,5 @@
 # GitHub User Name Change
-I've recently renamed this user account to @zeraphie and wanted to have a small explanation as to the reason for the change
+I've recently renamed this user account to [@zeraphie](https://github.com/zeraphie/) and wanted to have a small explanation as to the reason for the change
 
 ## Reasons
 I am transgender and I felt that my username was too male and I wanted to update it to better reflect myself as well as it helping having a new start. It was also one of the mental blocks that I had in reference to actually transitioning, and I've been working really hard to remove those mental blocks :)
